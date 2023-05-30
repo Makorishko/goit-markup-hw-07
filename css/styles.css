@@ -1185,6 +1185,16 @@ nav .list .link:hover:after {
   transition: transform 250ms ease-in-out;
 }
 
+@media (max-width: 427px) {
+  .menu-container {
+
+  padding: 80px 16px 16px;
+
+
+}
+   
+}
+
 .menu-container.is-open {
   transform: translateX(0);
 }

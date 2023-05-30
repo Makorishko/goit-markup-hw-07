@@ -345,6 +345,16 @@ header .list{
 @media only screen and (min-width: 1158px) {
 
   .header .container{
+    justify-content: start;
+  }
+
+  .nav{
+    margin-left: 76px;
+    margin-right: auto;
+  }
+
+
+  .header .container{
     max-width: 1128;
   }
 
